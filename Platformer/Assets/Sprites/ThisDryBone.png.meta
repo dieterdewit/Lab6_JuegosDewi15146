@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: 88e9279dc0d4f285ebe5fc8eff40cca1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_0
+    21300002: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_1
+    21300004: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_2
+    21300006: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_3
+    21300008: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_4
+    21300010: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_5
+    21300012: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_6
+    21300014: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_7
+    21300016: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_8
+    21300018: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_9
+    21300020: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_10
+    21300022: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_11
+    21300024: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_12
+    21300026: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_13
+    21300028: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_14
+    21300030: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_15
+    21300032: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_16
+    21300034: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_17
+    21300036: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_18
+    21300038: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_19
+    21300040: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_20
+    21300042: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_21
+    21300044: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_22
+    21300046: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_23
+    21300048: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_24
+    21300050: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_25
+    21300052: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_26
+    21300054: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_27
+    21300056: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_28
+    21300058: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_29
+    21300060: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_30
+    21300062: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_31
+    21300064: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_32
+    21300066: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_33
+    21300068: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_34
+    21300070: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_35
+    21300072: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_36
+    21300074: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_37
+    21300076: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_38
+    21300078: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_39
+    21300080: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_40
+    21300082: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_41
+    21300084: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_42
+    21300086: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_43
+    21300088: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_44
+    21300090: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_45
+    21300092: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_46
+    21300094: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_47
+    21300096: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_48
+    21300098: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_49
+    21300100: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_50
+    21300102: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_51
+    21300104: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_52
+    21300106: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_53
+    21300108: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_54
+    21300110: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_55
+    21300112: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_56
+    21300114: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_57
+    21300116: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_58
+    21300118: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_59
+    21300120: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_60
+    21300122: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_61
+    21300124: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_62
+    21300126: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_63
+    21300128: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_64
+    21300130: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_65
+    21300132: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_66
+    21300134: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_67
+    21300136: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_68
+    21300138: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_69
+    21300140: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_70
+    21300142: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_71
+    21300144: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_72
+    21300146: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_73
+    21300148: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_74
+    21300150: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_75
+    21300152: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_76
+    21300154: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_77
+    21300156: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_78
+    21300158: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_79
+    21300160: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_80
+    21300162: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_81
+    21300164: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_82
+    21300166: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_83
+    21300168: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_84
+    21300170: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_85
+    21300172: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_86
+    21300174: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_87
+    21300176: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_88
+    21300178: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_89
+    21300180: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_90
+    21300182: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_91
+    21300184: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_92
+    21300186: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_93
+    21300188: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_94
+    21300190: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_95
+    21300192: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_96
+    21300194: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_97
+    21300196: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_98
+    21300198: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_99
+    21300200: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_100
+    21300202: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_101
+    21300204: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_102
+    21300206: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_103
+    21300208: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_104
+    21300210: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_105
+    21300212: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_106
+    21300214: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_107
+    21300216: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_108
+    21300218: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_109
+    21300220: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_110
+    21300222: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_111
+    21300224: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_112
+    21300226: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_113
+    21300228: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_114
+    21300230: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_115
+    21300232: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_116
+    21300234: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_117
+    21300236: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_118
+    21300238: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_119
+    21300240: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_120
+    21300242: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_121
+    21300244: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_122
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 415
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc9d81040c0d2ba1964705e22d141d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 415
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38210e18efc932da5027cfc4ae2a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 415
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80429d5a4cea5716aa2944d0409e27bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 415
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d67e7a0b4f82b6dbce6d24ae710be1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 359
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c3a287ff220eae8b824b5b88c3d5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 359
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebfd953ff5d16e580aa49a7b2b682f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 359
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87806544756ea559a9456a26790816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 359
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a8547ba38c6c11863aee193984bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 359
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260dd6acf536462bca1117dfaf2b3522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2189916851d66f716b6eb72616c400dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 303
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6839799ffc9a33ca1da5e8287e6e15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36184a5c8cc3e72da8aa6f753a86d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 303
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb5330cb59b8a308d7e80168ad4adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 303
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a168c3161038857a91298617e9b26d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 303
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc37fdd49fabc9e680c716b2aaf22e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 303
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601345a47d0875efba87846fa6b768fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 303
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb1b424e2d2a66bb17893d9cd193f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 247
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e20dd68925d896f8a57f96e7ebefa10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 247
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4130b0f6142aa0f5dbea5224d458bac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 247
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623f8b05f18d910db396ae69c2f74e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a92c7d7116519193473bc48137daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba6ebc7869a1aee9b604b93623858d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cb162ea3cb881ab74f0082f6bdd99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 191
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a636401675a44d7208bec1dd7fcb209a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858f5be04cec5e60aa46245791af78e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3b1ffca7fca67392cbb01a4aadd50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 160
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03447332d66c73232a7345cf89d53341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8cbd8e9634310db8f08c58a1b1d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 136
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ab6bb0f4fb4b14b6a15047e3025f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c1f9ffff495db6aa30f07422423ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e06f8813e87aff9acb17e01acff336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793428b50d897989f9fe48b1a32c2c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 112
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b51ec4a7e06ae0a110a6dc1ac2e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da9242f633999cda4106f177f838e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 88
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc62fa72a1b6da72eb6d778307e1dda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 90
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94fa143cbcb3a870b353eef28cff4c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199421f9390413af6b2fbae1d06b30d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa20501cb5c5106a85ba6124bcd9d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1f40b02619be789c3d0a01dd7ed5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e54bd27c54a0b92854688f63f90aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2a9616457f488a39910e2665363588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b004a6aac1bb22866bf948f5f1aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d9bbfd39d8fe569d63accf8f48f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd44bca4585d143c9e4703e401e8d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11c06b1802d0862b2f5a1b305fa0ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1f581dfc3759178f6bf7865030ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387d8effc30d9e5c8ed042029c1d1d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c394c88a6a71fe3683754a3051094fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1efb36be5e826dba164e7c64bb0204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930d0cd842ab9d49ad7099a6591f2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beea885c0e8398c28fd4c2e52f85b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218254978da22fd2ba8de09e88ea8133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1451d436a17555fdb9305004d398f96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5637db1881be8cc95cc90a356600ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d87cca46f7cc5bac653a1003aee3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573e19f69bf80a988e8beb26dedb9da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c09735a8bb1e3879b142df0b334ccc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5746566214f0de7bc0b407edc408e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bd082c85cc9fbcbe4c979d26061bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdc0eeb70fc907e4b4959295efc9f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760ec16cbc8618ceb39a16ffbceb81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a760f982a86c89915bceab6ebb901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acb2dd0e74e9413bf9920eb7d0c8d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618857eaf7b72384d83a844eaad82e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b595dbae3ae7e074ab7211d133302c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531f5b6712b6a42cb42d2663fa29fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3fa89f021889868fcf8686d3c3e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498545a58fe49c6ea8e99498947e3ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba8b74b6c8b9c8e89dc17d10debbae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_69
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4fd8677c67783e90149908c7227c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044415ea92196cd2fa06b748f4b5a992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796dcd013efb94159c9cbb4ec6f700b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fc7e6d489c64d1d84a3b2b3d58d8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2af5d893dbdef2859161d0a133908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283ff348e87b854a28dee497a7dc9406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211819b1921a41a74937a3474b2463a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c83dc69c2af21e8d5df5b7aa863d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffa065277f7559bbfdf1acde715932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d362284c55a800a8b37c3cfae2d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c551b8a761079ac8f056806f180c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4619000b4cf02cbd31c003a3c22c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60313f793bee59550a316bc5e4cf3b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b7d962432dc398890a0f7babd2a68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29984625fa76948a7ad70278ba19fc71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a1916b55c60289bb59460290d06d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803b018ae1139532b41f49790fb0c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_86
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a679acd7e26276fae4fc668cd80e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a02500b899156589d15fa43c75e0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98d9fab70cad5758a01279de7ecdad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6bc4997a4663a36843cd5af9c42089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa750467d93f9de6ae55a9a93999432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e756dc6a2a839870bfb44bf0717ba49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d6c1a47dc7a3eaf99eb5075d634bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1a6614d10bcb63ac0574c628896ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6d9c9ccd1b6fa69e0513ca268ba55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a70122c768265d8b14a6eb98a19f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfacc96123ffc07daa3078b314b75d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aaee4b2f62ba40e9de0370a0190d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190ea929662f6477ab61b4fa7ce5889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0da31cb9afb6cc2a85cf3bb549da40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_100
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73250314acb9208b8bd741d4b28029b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62044038e70050e46b11171ae0219fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46d5db2e58d3bd293c8e2f3a6d5562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f8707a8c7d5740a3dd13fea3e57b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e551cc372d000608d8d9d7e897129a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d60afc6dda559a1b0c13830f32e7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4a765511654254a111c4efafcbcf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890d5b053c89627da9ffce9cebe8af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_108
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aea5ca813dc6299a65b837ff4247b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd10002e83104f594041dd4109d970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999fd690e761654fd849b198ac8ade26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343a2402273b80428e73651c9f27ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b691f41d772365bb08fa85d3ff73b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb363ffff6f0aba3b9cf23e17f6283ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49842beba59e99456b512cdd72f96d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899c0ae3ae64417898a4ecb4c739bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f77f048c034921aa8ffab8c89ffac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708b577e2ceaf4c3b230603a2ec0f3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e30863fceb8b7b98bb4a46eeaf8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b079c87627e10c5d970d9b46d867193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3986a004d7309529a330afc1ca0d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98729663975b2c47990c0f797be2dba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Dry Bowser Super Mario Bros SNES-Style_122
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609179510bf0f9472b9fe756cbba536e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66e6135a9a92c5ad39fca619a7c84f85
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
