@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dd01ed1-553e-418a-b46b-3ccb5e28985a" name="Default Changelist" comment="" />
+    <list default="true" id="4dd01ed1-553e-418a-b46b-3ccb5e28985a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,19 +16,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="43" column="62" lean-forward="true" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+            <state relative-caret-position="630">
+              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
-                <marker date="1550598106726" expanded="true" signature="6:92" ph="..." />
-                <marker date="1550598106726" expanded="true" signature="138:1096" ph="{...}" />
-                <marker date="1550598106726" expanded="true" signature="441:495" ph="{...}" />
-                <marker date="1550598106726" expanded="true" signature="514:786" ph="{...}" />
-                <marker date="1550598106726" expanded="true" signature="810:987" ph="{...}" />
-                <marker date="1550598106726" expanded="true" signature="1014:1089" ph="{...}" />
+                <marker date="1550607888242" expanded="false" signature="6:92" ph="..." />
+                <marker date="1550607888242" expanded="true" signature="138:1195" ph="{...}" />
+                <marker date="1550607888242" expanded="true" signature="441:495" ph="{...}" />
+                <marker date="1550607888242" expanded="true" signature="514:786" ph="{...}" />
+                <marker date="1550607888242" expanded="true" signature="810:996" ph="{...}" />
+                <marker date="1550607888242" expanded="true" signature="1023:1098" ph="{...}" />
+                <marker date="1550607888242" expanded="true" signature="1137:1192" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ShotBro.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding>
+                <marker date="1550607486754" expanded="true" signature="6:78" ph="..." />
+                <marker date="1550607486754" expanded="true" signature="116:589" ph="{...}" />
+                <marker date="1550607486754" expanded="true" signature="188:209" ph="{...}" />
+                <marker date="1550607486754" expanded="true" signature="267:288" ph="{...}" />
+                <marker date="1550607486754" expanded="true" signature="353:586" ph="{...}" />
+                <marker date="1550607486754" expanded="true" signature="412:571" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -29,13 +54,18 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ShotBro.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Mario Puppeteer.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShotBro.cs" />
         <option value="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" />
       </list>
     </option>
@@ -45,12 +75,13 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="989" />
     <option name="y" value="40" />
     <option name="width" value="931" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,11 +134,13 @@
       <workItem from="1550595545078" duration="355000" />
       <workItem from="1550595910604" duration="57000" />
       <workItem from="1550595991446" duration="2115000" />
+      <workItem from="1550599761689" duration="1249000" />
+      <workItem from="1550605721774" duration="5409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5493000" />
+    <option name="totallyTimeSpent" value="12151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -119,7 +152,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="989" y="40" width="931" height="1040" extended-state="0" />
+    <frame x="989" y="40" width="931" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19139297" />
@@ -171,17 +204,33 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Mario Puppeteer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ShotBro.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1550607486754" expanded="true" signature="6:78" ph="..." />
+            <marker date="1550607486754" expanded="true" signature="116:589" ph="{...}" />
+            <marker date="1550607486754" expanded="true" signature="188:209" ph="{...}" />
+            <marker date="1550607486754" expanded="true" signature="267:288" ph="{...}" />
+            <marker date="1550607486754" expanded="true" signature="353:586" ph="{...}" />
+            <marker date="1550607486754" expanded="true" signature="412:571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="43" column="62" lean-forward="true" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+        <state relative-caret-position="630">
+          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding>
-            <marker date="1550598106726" expanded="true" signature="6:92" ph="..." />
-            <marker date="1550598106726" expanded="true" signature="138:1096" ph="{...}" />
-            <marker date="1550598106726" expanded="true" signature="441:495" ph="{...}" />
-            <marker date="1550598106726" expanded="true" signature="514:786" ph="{...}" />
-            <marker date="1550598106726" expanded="true" signature="810:987" ph="{...}" />
-            <marker date="1550598106726" expanded="true" signature="1014:1089" ph="{...}" />
+            <marker date="1550607888242" expanded="false" signature="6:92" ph="..." />
+            <marker date="1550607888242" expanded="true" signature="138:1195" ph="{...}" />
+            <marker date="1550607888242" expanded="true" signature="441:495" ph="{...}" />
+            <marker date="1550607888242" expanded="true" signature="514:786" ph="{...}" />
+            <marker date="1550607888242" expanded="true" signature="810:996" ph="{...}" />
+            <marker date="1550607888242" expanded="true" signature="1023:1098" ph="{...}" />
+            <marker date="1550607888242" expanded="true" signature="1137:1192" ph="{...}" />
           </folding>
         </state>
       </provider>

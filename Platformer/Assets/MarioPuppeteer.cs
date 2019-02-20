@@ -37,6 +37,7 @@ public class MarioPuppeteer : MonoBehaviour
         float moveHorizontal = Input.GetAxis ("Horizontal");
         Vector2 movement = new Vector2 (moveHorizontal, 0);
         rb.AddForce (movement * Velocidad);
+        
     }
 
     private void Saltar()
@@ -44,12 +45,9 @@ public class MarioPuppeteer : MonoBehaviour
         rb.AddForce(Vector2.up * Fuerza, ForceMode2D.Impulse);
     }
     
-    private void OnCollisionEnter(Collision collision)
+    public void ChaoChaoBambino()
     {
-        if (collision.gameObject.tag == "Bing") 
-        {
-            Destroy(collision.gameObject);
-            collision.gameObject.GetComponent<Obstaculo>().Monedita();
-        }
+        Debug.Log("Tutututururururururu");
     }
+
 }
