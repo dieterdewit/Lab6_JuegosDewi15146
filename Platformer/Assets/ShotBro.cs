@@ -20,11 +20,18 @@ public class ShotBro : MonoBehaviour
     {
         if (collision.gameObject.tag == "ThaFatGuy")
         {
-            Destroy(collision.gameObject);
-            collision.gameObject.GetComponent<MarioPuppeteer>().ChaoChaoBambino();
-            
+            if (!MarioPuppeteer.muerte)
+            {
+                Destroy(collision.gameObject);
+                collision.gameObject.GetComponent<MarioPuppeteer>().ChaoChaoBambino();
+            }
         }
         
+    }
+
+    public void Estrellita()
+    {
+
     }
 
 }
