@@ -24,6 +24,18 @@ public class MarioPuppeteer : MonoBehaviour
     private int direction;
     private float posX;
 
+    public AudioClip kittyJump;
+    public AudioClip wonthong;
+    public AudioClip lost;
+
+    private AudioSource source;
+
+    void Awake()
+    {
+        source = GetComponent<AudioSource>();
+    }
+    
+
 
     void Start()
     {
@@ -78,6 +90,7 @@ public class MarioPuppeteer : MonoBehaviour
     private void Saltar()
     {
         rb.AddForce(Vector2.up * Fuerza, ForceMode2D.Impulse);
+        source.PlayOneShot(kittyJump,1.5f);
     }
     
     public void ChaoChaoBambino()
@@ -91,6 +104,7 @@ public class MarioPuppeteer : MonoBehaviour
         {
             muerte = true;
             GetDownNow();
+            
         }
 
 
@@ -100,6 +114,7 @@ public class MarioPuppeteer : MonoBehaviour
             {
                 Destroy(collision.gameObject);
                 collision.gameObject.GetComponent<ShotBro>().Estrellita();
+                source.PlayOneShot(lost,1.5f);
             }
         }
 
@@ -110,6 +125,7 @@ public class MarioPuppeteer : MonoBehaviour
         if (spriteRenderer.sprite == sprite1)
         {
             spriteRenderer.sprite = sprite2;
+            source.PlayOneShot(wonthong,3.5f);
         }
 
     }

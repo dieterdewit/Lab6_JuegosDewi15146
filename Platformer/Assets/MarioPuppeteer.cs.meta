@@ -3,7 +3,13 @@ guid: 7fe0fed152a3d79d3ba2486eeb4fb21a
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - sprite1: {instanceID: 0}
+  - sprite2: {instanceID: 0}
+  - Colision: {instanceID: 0}
+  - kittyJump: {fileID: 8300000, guid: 15065a851907fa2aa8afa0cb768c35c8, type: 3}
+  - wonthong: {fileID: 8300000, guid: 456978ffdca557623ac264dccd5d44fd, type: 3}
+  - lost: {fileID: 8300000, guid: 56dba5fcf331962bbad765da0ec4e024, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

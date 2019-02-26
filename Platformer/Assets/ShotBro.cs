@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class ShotBro : MonoBehaviour
 {
+    public AudioClip prepareUranusPrincess;
+
+    private AudioSource source;
+    
+    void Awake()
+    {
+        source = GetComponent<AudioSource>();
+    }
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -24,6 +33,7 @@ public class ShotBro : MonoBehaviour
             {
                 Destroy(collision.gameObject);
                 collision.gameObject.GetComponent<MarioPuppeteer>().ChaoChaoBambino();
+                source.PlayOneShot(prepareUranusPrincess,10.5f);
             }
         }
         

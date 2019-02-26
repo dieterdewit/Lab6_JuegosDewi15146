@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="MarioPuppeteer.cs" t="Include" />
         <e p="ShotBro.cs" t="Include" />
+        <e p="Sound.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="Platformer.sln" t="IncludeFlat" />
