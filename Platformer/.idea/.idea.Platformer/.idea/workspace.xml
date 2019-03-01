@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd01ed1-553e-418a-b46b-3ccb5e28985a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MarioPuppeteer.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ShotBro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ShotBro.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="116" column="46" lean-forward="true" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
+            <state relative-caret-position="377">
+              <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
               <folding>
                 <marker date="1551204280807" expanded="false" signature="6:92" ph="..." />
                 <marker date="1551204280807" expanded="true" signature="138:2903" ph="{...}" />
@@ -45,11 +41,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/AudioDown.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <marker date="1551399837936" expanded="true" signature="6:104" ph="..." />
+                <marker date="1551399837936" expanded="true" signature="166:497" ph="{...}" />
+                <marker date="1551399837936" expanded="true" signature="301:322" ph="{...}" />
+                <marker date="1551399837936" expanded="true" signature="380:401" ph="{...}" />
+                <marker date="1551399837936" expanded="true" signature="437:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ShotBro.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="496">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
               <folding>
                 <marker date="1551204208567" expanded="false" signature="6:78" ph="..." />
                 <marker date="1551204208567" expanded="true" signature="116:922" ph="{...}" />
@@ -68,10 +80,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Sound.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="48">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
-                <marker date="1551202302659" expanded="true" signature="6:78" ph="..." />
+                <marker date="1551202302659" expanded="false" signature="6:78" ph="..." />
                 <marker date="1551202302659" expanded="true" signature="114:456" ph="{...}" />
                 <marker date="1551202302659" expanded="true" signature="260:454" ph="{...}" />
               </folding>
@@ -87,6 +99,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ShotBro.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AudioDown.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sound.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -96,6 +109,7 @@
         <option value="$PROJECT_DIR$/Assets/Sound.cs" />
         <option value="$PROJECT_DIR$/Assets/ShotBro.cs" />
         <option value="$PROJECT_DIR$/Assets/MarioPuppeteer.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioDown.cs" />
       </list>
     </option>
   </component>
@@ -105,9 +119,10 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1973" />
-    <option name="width" value="931" />
-    <option name="height" value="1040" />
+    <option name="x" value="57" />
+    <option name="y" value="40" />
+    <option name="width" value="1864" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,11 +181,12 @@
       <workItem from="1550599761689" duration="1249000" />
       <workItem from="1550605721774" duration="5409000" />
       <workItem from="1551200927497" duration="3532000" />
+      <workItem from="1551394570412" duration="1885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15683000" />
+    <option name="totallyTimeSpent" value="17568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,7 +198,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1359" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="57" y="40" width="1864" height="1041" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19139297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,40 +249,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Mario Puppeteer.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Sound.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <marker date="1551202302659" expanded="true" signature="6:78" ph="..." />
-            <marker date="1551202302659" expanded="true" signature="114:456" ph="{...}" />
-            <marker date="1551202302659" expanded="true" signature="260:454" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ShotBro.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding>
-            <marker date="1551204208567" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551204208567" expanded="true" signature="116:922" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="217:275" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="350:371" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="429:450" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="515:876" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="574:861" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="624:851" ph="{...}" />
-            <marker date="1551204208567" expanded="true" signature="906:919" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MarioPuppeteer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="116" column="46" lean-forward="true" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
+        <state relative-caret-position="377">
+          <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
           <folding>
             <marker date="1551204280807" expanded="false" signature="6:92" ph="..." />
             <marker date="1551204280807" expanded="true" signature="138:2903" ph="{...}" />
@@ -286,6 +272,50 @@
             <marker date="1551204280807" expanded="true" signature="2491:2688" ph="{...}" />
             <marker date="1551204280807" expanded="true" signature="2728:2899" ph="{...}" />
             <marker date="1551204280807" expanded="true" signature="2780:2892" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ShotBro.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <marker date="1551204208567" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551204208567" expanded="true" signature="116:922" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="217:275" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="350:371" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="429:450" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="515:876" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="574:861" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="624:851" ph="{...}" />
+            <marker date="1551204208567" expanded="true" signature="906:919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Sound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <marker date="1551202302659" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551202302659" expanded="true" signature="114:456" ph="{...}" />
+            <marker date="1551202302659" expanded="true" signature="260:454" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AudioDown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1551399837936" expanded="true" signature="6:104" ph="..." />
+            <marker date="1551399837936" expanded="true" signature="166:497" ph="{...}" />
+            <marker date="1551399837936" expanded="true" signature="301:322" ph="{...}" />
+            <marker date="1551399837936" expanded="true" signature="380:401" ph="{...}" />
+            <marker date="1551399837936" expanded="true" signature="437:495" ph="{...}" />
           </folding>
         </state>
       </provider>
